@@ -1,0 +1,6 @@
+{
+  "name": "Syllaby — Easy AI Video Generator",
+  "description": "Struggling to grow on TikTok or YouTube? Use Syllaby’s easy AI video generator to find viral ideas, write scripts, and publish faceless videos in minutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
